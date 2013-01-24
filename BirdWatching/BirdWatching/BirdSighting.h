@@ -16,3 +16,6 @@
 -(id)initWithName:(NSString *)name location:(NSString *)location date:(NSDate *)date;
 
 @end
+
+//http://developer.apple.com/library/ios/#documentation/iPhone/Conceptual/SecondiOSAppTutorial/CreatingAddView/CreatingAddView.html
+//specifying a horizontal spacing constraint for the space between the two elements.
