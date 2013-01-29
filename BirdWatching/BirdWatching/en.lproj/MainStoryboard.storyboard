@@ -52,7 +52,7 @@
                                 </view>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <connections>
-                                    <segue destination="YNs-C9-DfM" kind="push" id="Rul-M7-4pM"/>
+                                    <segue destination="YNs-C9-DfM" kind="push" identifier="ShowSightingDetails" id="Rul-M7-4pM"/>
                                 </connections>
                             </tableViewCell>
                         </prototypes>
