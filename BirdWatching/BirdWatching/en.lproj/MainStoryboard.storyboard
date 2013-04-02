@@ -52,7 +52,7 @@
                                 </view>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <connections>
-                                    <segue destination="YNs-C9-DfM" kind="push" id="Rul-M7-4pM"/>
+                                    <segue destination="YNs-C9-DfM" kind="push" identifier="ShowSightingDetails" id="Rul-M7-4pM"/>
                                 </connections>
                             </tableViewCell>
                         </prototypes>
@@ -173,7 +173,7 @@
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="lan-Cd-5LY" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="807" y="12"/>
+            <point key="canvasLocation" x="949" y="60"/>
         </scene>
         <!--Add Sighting View Controller - Root View Controller-->
         <scene sceneID="LKT-vH-Zzp">
